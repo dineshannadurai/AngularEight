@@ -1,2 +1,2 @@
 # AngularEight
-Application with angular eight features testing
+Application with angular eight features
